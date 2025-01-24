@@ -33,7 +33,10 @@ Tracks the total time from order placement to delivery, providing insights into 
 Measures the time orders are delivered past the promised date, helping to identify and rectify delays in the supply chain that impact customer trust and satisfaction.
 
 ## [Project 7.7:  Afghanistan’s Nutrition Data Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTI2ODY3M2YtNTQ2My00YTY0LThlMGUtZTYyMzI4N2RkNzEzIiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D)
+![image](https://github.com/user-attachments/assets/d70cfc2f-e028-4ca0-9232-40704a2a345e)
 ![image](https://github.com/ms4hafiz/Notes/assets/20435849/dfc1e1e5-ed49-4849-87b0-d1d2d9876d35)
+![image](https://github.com/user-attachments/assets/7eae45dd-09ed-4f2b-b8a6-b3c43ea23e47)
+![image](https://github.com/user-attachments/assets/ed8ac8d2-d640-4e70-82db-2db1b27ce51d)
 
 This Power BI project focuses on analyzing nutrition data to improve performance and enhance decision-making within UNICEF Afghanistan’s nutrition section. It can serve as a one-stop-shop for using nutrition data produced by UNICEF support as well as other stakeholders. 
 
