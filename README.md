@@ -19,15 +19,17 @@
 *  [PBI Project 1: Factors affecting pregnancy health risks](https://hafizmahmudi.github.io/#pbi-project-1-factors-affecting-pregnancy-health-risks)
 
 ## [2. Python Projects: ](https://hafizmahmudi.github.io/#python-project-1-gdp-analysis-and-recommendation)
-*  [Python Project 16:  Afghanistan’s Health Expenditure (EMIS) Dashboard](https://hafizmahmudi.github.io/#pbi-project-16--afghanistans-health-expenditure-emis-dashboard)
-*  
-## [1. Data Science-Football Data Ingestion and Processing](https://github.com/mahmudie/data_engineering_projects)
+(This also includes my research projects which was carried out using Python)
+*  [Python Project 6: GDP Analysis and Recommendation](https://hafizmahmudi.github.io/#python-project-6-gdp-analysis-and-recommendation)
+*  [Python Project 5: Cluster Analysis PCA](https://hafizmahmudi.github.io/#python-project-5-cluster-analysis-pca)
+*  [Python Project 4: Telecom Churn Analysis](https://hafizmahmudi.github.io/#python-project-4-telecom-churn-analysis)
+*  [Python Project 3: COVID-19 country cases and fatality trend](https://hafizmahmudi.github.io/#python-project-3-covid-19-country-cases-and-fatality-trend)
+*  [Python Project 2: Analysis of loan applications](https://hafizmahmudi.github.io/#python-project-3-covid-19-country-cases-and-fatality-trend)
+*  [Python Project 3: COVID-19 country cases and fatality trend](https://hafizmahmudi.github.io/#python-project-3-covid-19-country-cases-and-fatality-trend)
+
+
 ## [2. Data Science-Nutrtion ETL and Warehousing using SSIS](https://github.com/mahmudie/NutritionDIS)
 ## [3. Data Science- Nutrition Data Analysis Services](https://github.com/mahmudie/NutritionDIS/tree/main/NutritionSSAS)
-## [4. Data Science- GDP Analysis and Recommendation](https://github.com/mahmudie/GDP_Analysis)
-## [5. Data Science- Analysis of loan applications](https://github.com/mahmudie/Credit_EDA_Case_Study)
-## [6. Data Science- Telecom Churn Study](https://github.com/mahmudie/Telecom-churn-study)
-## 7. Data Science- Data analysis and visualization projects:
 
 ## PBI Project 16:  Afghanistan’s Health Expenditure (EMIS) Dashboard
 (Direct access to the dashboard is restricted and the data is anonymized)
@@ -194,7 +196,7 @@ Following are some insights I was able to make from this dashboard:
  7. If government and each state invest on increasing the GDP per capita, the education drop out will get lower. An educated people will directly affect individual learnings resulting to higher GDP to the nation.
 
 ## [Python Project 5: Cluster Analysis PCA](https://github.com/hafizmahmudi/Clustering-using-PCA)
-## [Python Project 4: Telecom Churn Analysis](https://github.com/hafizmahmudi/Telecom-churn-study)
+## [Python Project 4: Telecom Churn Study](https://github.com/hafizmahmudi/Telecom-churn-study)
 ## [Python Project 3: COVID-19 country cases and fatality trend](https://www.kaggle.com/code/hafizullahm/covid-19-country-cases-and-fatality-trend)
-## [Python Project 2: Credit Card EDA](https://github.com/hafizmahmudi/Credit-Card-Fraud-Detection)
+## [Python Project 2: Analysis of loan applications](https://github.com/hafizmahmudi/Credit_EDA_Case_Study)
 ## [Python Project 1: Credit Card Fraud Detection](https://github.com/hafizmahmudi/Credit-Card-Fraud-Detection)
