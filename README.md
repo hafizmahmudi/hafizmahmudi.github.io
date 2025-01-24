@@ -1,6 +1,13 @@
 # Some of my past projects
 
-# [1. PowerBI Projects: ](https://hafizmahmudi.github.io/#pbi-project-16--afghanistans-health-expenditure-emis-dashboard)
+## [1. PowerBI Projects: ](https://hafizmahmudi.github.io/#pbi-project-16--afghanistans-health-expenditure-emis-dashboard)
+### [PBI Project 16:  Afghanistan’s Health Expenditure (EMIS) Dashboard](https://hafizmahmudi.github.io/#pbi-project-16--afghanistans-health-expenditure-emis-dashboard)
+### [PBI Project 15:  Afghanistan’s Nutrition Data Dashboard](https://hafizmahmudi.github.io/#pbi-project-15--afghanistans-nutrition-data-dashboard)
+### [PBI Project 14:  Private Health Sector Assessment Dashboard](https://hafizmahmudi.github.io/#pbi-project-14-private-health-sector-assessment-dashboard)
+### [PBI Project 13: 18+ KPI Designs using SVG in PowerBI](https://hafizmahmudi.github.io/#pbi-project-13-18-kpi-designs-using-svg-in-powerbi)
+### [PBI Project 12: Electronic Sales Analysis in Germany](https://hafizmahmudi.github.io/#pbi-project-12-electronic-sales-analysis-in-germany)
+### [PBI Project 11: Superstore Year over Year Performance](https://hafizmahmudi.github.io/#pbi-project-11-superstore-year-over-year-performance)
+
 ## [1. Data Science-Football Data Ingestion and Processing](https://github.com/mahmudie/data_engineering_projects)
 ## [2. Data Science-Nutrtion ETL and Warehousing using SSIS](https://github.com/mahmudie/NutritionDIS)
 ## [3. Data Science- Nutrition Data Analysis Services](https://github.com/mahmudie/NutritionDIS/tree/main/NutritionSSAS)
