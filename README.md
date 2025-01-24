@@ -9,7 +9,7 @@ This section highlights various dashboards and analyses, including:
 * Electronic Sales Analysis in Germany
 * Superstore Year-over-Year Performance
 * Supply Chain Analytics and others
-* 
+
 # [2. Python Projects](https://hafizmahmudi.github.io/#2-python-projects-)
  Here, Hafizullah presents his work on:
 * GDP Analysis
