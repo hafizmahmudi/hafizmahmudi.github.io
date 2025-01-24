@@ -2,7 +2,7 @@
 
 # [1. Power BI Projects](https://hafizmahmudi.github.io/#1-powerbi-projects-)
 # [2. Python Projects](https://hafizmahmudi.github.io/#2-python-projects-)
-# [3. Contributions to Researches](https://hafizmahmudi.github.io/#2-python-projects-)
+# [3. Contributions to Researches](https://hafizmahmudi.github.io/#3-contribution-to-researches)
 
 ## [2. Data Science-Nutrtion ETL and Warehousing using SSIS](https://github.com/mahmudie/NutritionDIS)
 ## [3. Data Science- Nutrition Data Analysis Services](https://github.com/mahmudie/NutritionDIS/tree/main/NutritionSSAS)
