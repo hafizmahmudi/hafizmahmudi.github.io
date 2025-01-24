@@ -110,8 +110,8 @@ Measures the time orders are delivered past the promised date, helping to identi
 ![image](https://github.com/user-attachments/assets/f442c2de-adba-472b-9364-ee3fdaac1fff)
 
 
-## [PBI Project 3: Profitability Analysis](https://app.powerbi.com/view?r=eyJrIjoiZjM5M2NkNGMtY2RmZC00ZjA2LWI1MDMtZWIzZjY2ZjMxNTdlIiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D)
-![Dashboard image](https://github.com/ms4hafiz/PowerBI/blob/main/1-Profitability%20Dashboard/Dashboard%20image.png)
+## [PBI Project 3: Profitability Analysis](https://app.powerbi.com/view?r=eyJrIjoiN2JhNTY5NzUtOGFkMi00ODc3LWJkN2YtOWIxN2Q0M2I5ODM3IiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D)
+![Dashboard image](https://github.com/user-attachments/assets/c0c5146e-1498-426e-ba90-e7c7ca535a2a)
 
 This PowerBI report shows sales profitability using Superstore Data. It is fully interactive, showing key KPI/metrics, and is using a customized legend.
 ## [PBI Project 2: Life Expectancy](https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/World-Life-Expectancy-between-1980-to-2019/m-p/3281695)
