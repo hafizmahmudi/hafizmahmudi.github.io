@@ -3,9 +3,8 @@
 # [1. Power BI Projects](https://hafizmahmudi.github.io/#1-powerbi-projects-)
 # [2. Python Projects](https://hafizmahmudi.github.io/#2-python-projects-)
 # [3. Contributions to Researches](https://hafizmahmudi.github.io/#3-contribution-to-researches)
+# [4. Software and Database Projects](#)
 
-## [2. Data Science-Nutrtion ETL and Warehousing using SSIS](https://github.com/mahmudie/NutritionDIS)
-## [3. Data Science- Nutrition Data Analysis Services](https://github.com/mahmudie/NutritionDIS/tree/main/NutritionSSAS)
 
 ## [1. PowerBI Projects: ](https://hafizmahmudi.github.io/#pbi-project-16--afghanistans-health-expenditure-emis-dashboard)
 *  [PBI Project 16:  Afghanistan’s Health Expenditure (EMIS) Dashboard](https://hafizmahmudi.github.io/#pbi-project-16--afghanistans-health-expenditure-emis-dashboard)
@@ -212,3 +211,5 @@ Following are some insights I was able to make from this dashboard:
 *  [Research 2: Predictive Insight of Global Warming-A Sustainable Control System](https://ieeexplore.ieee.org/abstract/document/10392190)
 *  [Research 1: Efficiency analysis of primary healthcare facilities in Afghanistan](https://link.springer.com/article/10.1186/s12962-022-00357-0)
 
+## 4. Software and Database Projects: 
+Throughout my career, I have had the opportunity to work on more than 20 software projects, including HMIS, Nutrition Database, EMIS, EMR, and many others. If needed, I can provide detailed information and references for these projects.
