@@ -8,6 +8,10 @@
 ## 7. Data Science- Data analysis and visualization projects:
 # PowerBI Projects
 
+## Project 7.7:  Afghanistan’s Health Expenditure (EMIS) Dashboard
+(Direct access to the dashboard is restricted and the data is anonymized)
+![image](https://github.com/user-attachments/assets/6e7a48d7-3700-4008-9df9-257a0030cb23)
+![image](https://github.com/user-attachments/assets/7bf10e86-4c24-4e99-8089-8067e7030e47)
 
 ## Project 7.7:  Afghanistan’s Nutrition Data Dashboard
 (Direct access to the dashboard is restricted)
@@ -78,6 +82,17 @@ Tracks the total time from order placement to delivery, providing insights into 
 Measures the time orders are delivered past the promised date, helping to identify and rectify delays in the supply chain that impact customer trust and satisfaction.
 ## [Project 4: Performance analysis of tracer indicators](https://public.tableau.com/views/ProvincialMonitoringKPIMiladi/MiladiDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 ![image](https://github.com/ms4hafiz/Notes/assets/20435849/ee827265-76e2-4080-acad-d30007ce9dc4)
+
+## [Project 4: Advanced Table Design in PowerBI](https://app.powerbi.com/view?r=eyJrIjoiMTYyYzg2YjctZDc5Zi00YTJlLThjODQtMDJmYTM0ZmY1YTQ5IiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D)
+![image](https://github.com/user-attachments/assets/e03dd03a-e3bc-498e-8b9a-2b275a260c16)
+
+## [Project 4: Creative way of Showing Percentage](https://app.powerbi.com/view?r=eyJrIjoiMTYyYzg2YjctZDc5Zi00YTJlLThjODQtMDJmYTM0ZmY1YTQ5IiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D)
+![image](https://github.com/user-attachments/assets/68f42f64-deff-46d1-88f8-a9ded9f19309)
+
+
+
+## [Project 4: HR Overview ](https://app.powerbi.com/view?r=eyJrIjoiM2RmYmNiYTQtMWFjNy00NGYzLTg0MGItM2JmMmFiY2JkZDUwIiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D)
+![image](https://github.com/user-attachments/assets/f442c2de-adba-472b-9364-ee3fdaac1fff)
 
 
 ## [Project 3: Profitability Analysis](https://app.powerbi.com/view?r=eyJrIjoiZjM5M2NkNGMtY2RmZC00ZjA2LWI1MDMtZWIzZjY2ZjMxNTdlIiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D)
