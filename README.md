@@ -26,6 +26,8 @@ I have worked on 20+ software and database initiatives, including:
 * Expenditure Management Information Systems (EMIS)
 * Electronic Medical Records (EMR)
 
+# [5. Inforgraphics Projects](https://hafizmahmudi.github.io/#4-software-and-database-projects-1)
+
 
 ## [1. PowerBI Projects: ](https://hafizmahmudi.github.io/#pbi-project-16--afghanistans-health-expenditure-emis-dashboard)
 *  [PBI Project 16:  Afghanistan’s Health Expenditure (EMIS) Dashboard](https://hafizmahmudi.github.io/#pbi-project-16--afghanistans-health-expenditure-emis-dashboard)
@@ -234,3 +236,10 @@ Following are some insights I was able to make from this dashboard:
 
 ## 4. Software and Database Projects: 
 Throughout my career, I have had the opportunity to work on more than 20 software projects, including HMIS, Nutrition Database, EMIS, EMR, and many others. If needed, I can provide detailed information and references for these projects.
+
+## 5. Inforgraphics Projects:
+## Infographic 2: AFIAT PROJECT Population Coverage and Predication
+![image](https://github.com/user-attachments/assets/4c310ac0-255c-456a-9560-d05236cb1bfa)
+## Infographic 1: UNICEF's ACO Achievements 2022
+![image](https://github.com/user-attachments/assets/1ac27a21-266f-402d-9e86-4f45738f837b)
+
