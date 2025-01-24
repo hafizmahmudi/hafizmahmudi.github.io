@@ -2,10 +2,10 @@
 
 # [1. Power BI Projects](https://hafizmahmudi.github.io/#1-powerbi-projects-)
 # [2. Python Projects](https://hafizmahmudi.github.io/#2-python-projects-)
+# [3. Contributions to Researches](https://hafizmahmudi.github.io/#2-python-projects-)
 
 ## [2. Data Science-Nutrtion ETL and Warehousing using SSIS](https://github.com/mahmudie/NutritionDIS)
 ## [3. Data Science- Nutrition Data Analysis Services](https://github.com/mahmudie/NutritionDIS/tree/main/NutritionSSAS)
-
 
 ## [1. PowerBI Projects: ](https://hafizmahmudi.github.io/#pbi-project-16--afghanistans-health-expenditure-emis-dashboard)
 *  [PBI Project 16:  Afghanistan’s Health Expenditure (EMIS) Dashboard](https://hafizmahmudi.github.io/#pbi-project-16--afghanistans-health-expenditure-emis-dashboard)
@@ -203,3 +203,12 @@ Following are some insights I was able to make from this dashboard:
 ## [Python Project 3: COVID-19 country cases and fatality trend](https://www.kaggle.com/code/hafizullahm/covid-19-country-cases-and-fatality-trend)
 ## [Python Project 2: Analysis of loan applications](https://github.com/hafizmahmudi/Credit_EDA_Case_Study)
 ## [Python Project 1: Credit Card Fraud Detection](https://github.com/hafizmahmudi/Credit-Card-Fraud-Detection)
+
+
+## 3. Contribution to Researches: 
+(I have contributed to the followinug researches and used Python, and other tools to complete the research from start to end or provided the data for the research)
+*  [Research 4: Evaluation of Gradient Boosting Algorithms on Balanced Home Credit Default Risk](https://ieeexplore.ieee.org/abstract/document/10041584)
+*  [Research 3: Predicting ICU Admissions based on Preconditions and Comorbidity for SARS COV2 Infected Patients](https://ieeexplore.ieee.org/abstract/document/10041669)
+*  [Research 2: Predictive Insight of Global Warming-A Sustainable Control System](https://ieeexplore.ieee.org/abstract/document/10392190)
+*  [Research 1: Efficiency analysis of primary healthcare facilities in Afghanistan](https://link.springer.com/article/10.1186/s12962-022-00357-0)
+
