@@ -1,6 +1,6 @@
 # Some of my past projects
 
-# [1. PowerBI Projects: ](https://github.com/hafizmahmudi/hafizmahmudi.github.io/edit/main/README.md#pbi-project-16--afghanistans-health-expenditure-emis-dashboard)
+# [1. PowerBI Projects: ](https://hafizmahmudi.github.io/#pbi-project-16--afghanistans-health-expenditure-emis-dashboard)
 ## [1. Data Science-Football Data Ingestion and Processing](https://github.com/mahmudie/data_engineering_projects)
 ## [2. Data Science-Nutrtion ETL and Warehousing using SSIS](https://github.com/mahmudie/NutritionDIS)
 ## [3. Data Science- Nutrition Data Analysis Services](https://github.com/mahmudie/NutritionDIS/tree/main/NutritionSSAS)
