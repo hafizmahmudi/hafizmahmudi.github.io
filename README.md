@@ -32,7 +32,8 @@ Tracks the total time from order placement to delivery, providing insights into 
 **Delay in Delivery:**
 Measures the time orders are delivered past the promised date, helping to identify and rectify delays in the supply chain that impact customer trust and satisfaction.
 
-## [Project 7.7:  Afghanistan’s Nutrition Data Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTI2ODY3M2YtNTQ2My00YTY0LThlMGUtZTYyMzI4N2RkNzEzIiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D)
+## Project 7.7:  Afghanistan’s Nutrition Data Dashboard
+(Direct access to the dashboard is restricted)
 ![image](https://github.com/user-attachments/assets/d70cfc2f-e028-4ca0-9232-40704a2a345e)
 ![image](https://github.com/ms4hafiz/Notes/assets/20435849/dfc1e1e5-ed49-4849-87b0-d1d2d9876d35)
 ![image](https://github.com/user-attachments/assets/7eae45dd-09ed-4f2b-b8a6-b3c43ea23e47)
@@ -55,6 +56,8 @@ By leveraging Power BI's analytics capabilities, our project has empowered decis
 
 ## [Project 6: Private Health Sector Assessment Dashboard]()
 (access to the dashboard is restricted because of privacy concerns)
+![image](https://github.com/user-attachments/assets/e9059203-2d81-4a0b-9702-4b0c0a4e9cff)
+![image](https://github.com/user-attachments/assets/d1ce9fca-c5be-4960-9317-3680ceddb5c9)
 ![image](https://github.com/ms4hafiz/Notes/assets/20435849/17372d61-6537-407d-9425-e99b6b0721df)
 
 
@@ -63,13 +66,13 @@ This PowerBI project leverages thousands of hospitals, pharmacies outs, and othe
 The assessment was carried out in important hubs including as Kabul, Herat, Nangarhar, Kandahar, and Balkh provinces in 2018. The assessment data has been interpreted/quantified in this interactive dashboard with several filter options such as location, kind of health facility, specialization, human resource size, hospital bed size, and service availability. It also includes information about hospitals, pharmacies, imaging facilities, doctors, and laboratories in five major cities: Kabul, Herat, Nangarhar, Kandahar, and Balkh. The main component of the dashboard contains sub-dashboards for hospitals, pharmacies, laboratories, imaging facilities, and independent doctors.
 
 
-## [Project 5: Afghanistan's Health Expenditures through Donations](https://app.powerbi.com/view?r=eyJrIjoiZTQ0MGJlZmItODc0Mi00NmE5LTliNDQtYzJjODM0MTgwMzU0IiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D)
-![image](https://github.com/ms4hafiz/Notes/assets/20435849/2384e060-1c90-4eee-8214-a1b4fede8e75)
+## [Project 5: Superstore Year over Year Performance]([https://app.powerbi.com/view?r=eyJrIjoiZTQ0MGJlZmItODc0Mi00NmE5LTliNDQtYzJjODM0MTgwMzU0IiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D](https://app.powerbi.com/view?r=eyJrIjoiYTAzOWRkNTgtNjYzMy00OGZiLWIzN2ItYjQwMzEyNDgzYTAyIiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D))
+![GIF](https://github.com/user-attachments/assets/a9e8a1e6-7212-4ef2-8672-ad9139cbbafb)
 
 ## [Project 4: Performance analysis of tracer indicators](https://public.tableau.com/views/ProvincialMonitoringKPIMiladi/MiladiDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 ![image](https://github.com/ms4hafiz/Notes/assets/20435849/ee827265-76e2-4080-acad-d30007ce9dc4)
 
-## Fun projects:
+
 ## [Project 3: Profitability Analysis](https://app.powerbi.com/view?r=eyJrIjoiZjM5M2NkNGMtY2RmZC00ZjA2LWI1MDMtZWIzZjY2ZjMxNTdlIiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D)
 ![Dashboard image](https://github.com/ms4hafiz/PowerBI/blob/main/1-Profitability%20Dashboard/Dashboard%20image.png)
 
