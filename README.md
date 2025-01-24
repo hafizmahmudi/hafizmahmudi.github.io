@@ -24,8 +24,8 @@
 *  [Python Project 5: Cluster Analysis PCA](https://hafizmahmudi.github.io/#python-project-5-cluster-analysis-pca)
 *  [Python Project 4: Telecom Churn Analysis](https://hafizmahmudi.github.io/#python-project-4-telecom-churn-analysis)
 *  [Python Project 3: COVID-19 country cases and fatality trend](https://hafizmahmudi.github.io/#python-project-3-covid-19-country-cases-and-fatality-trend)
-*  [Python Project 2: Analysis of loan applications](https://hafizmahmudi.github.io/#python-project-3-covid-19-country-cases-and-fatality-trend)
-*  [Python Project 3: COVID-19 country cases and fatality trend](https://hafizmahmudi.github.io/#python-project-3-covid-19-country-cases-and-fatality-trend)
+*  [Python Project 2: Analysis of loan applications](https://hafizmahmudi.github.io/#python-project-2-analysis-of-loan-applications)
+*  [Python Project 1: Credit Card Fraud Detection](https://hafizmahmudi.github.io/#python-project-1-credit-card-fraud-detection)
 
 
 ## [2. Data Science-Nutrtion ETL and Warehousing using SSIS](https://github.com/mahmudie/NutritionDIS)
