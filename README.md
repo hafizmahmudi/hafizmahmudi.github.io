@@ -1,9 +1,29 @@
 # My Data Analytics Projects
-
+Here I am showcasing my extensive work in data analytics and software development. The site is organized into four main sections (click on each section to see the details):
 # [1. Power BI Projects](https://hafizmahmudi.github.io/#1-powerbi-projects-)
+This section highlights various dashboards and analyses, including:
+
+Afghanistan’s Health Expenditure Dashboard
+Nutrition Data Dashboard
+Private Health Sector Assessment
+Electronic Sales Analysis in Germany
+Superstore Year-over-Year Performance
+Supply Chain Analytics
 # [2. Python Projects](https://hafizmahmudi.github.io/#2-python-projects-)
+ Here, Hafizullah presents his work on:
+
+GDP Analysis
+Credit Card Fraud Detection
+Telecom Churn Study
+
 # [3. Contributions to Researches](https://hafizmahmudi.github.io/#3-contribution-to-researches)
+This section details his involvement in various research projects, though specific examples are not provided in the available information.
 # [4. Software and Database Projects](https://hafizmahmudi.github.io/#4-software-and-database-projects-1)
+I have worked on 20+ software and database initiatives, including:
+Health Management Information Systems (HMIS)
+Nutrition Databases
+Education Management Information Systems (EMIS)
+Electronic Medical Records (EMR)
 
 
 ## [1. PowerBI Projects: ](https://hafizmahmudi.github.io/#pbi-project-16--afghanistans-health-expenditure-emis-dashboard)
