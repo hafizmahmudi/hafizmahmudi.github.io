@@ -18,7 +18,9 @@
 *  [PBI Project 2: Life Expectancy](https://hafizmahmudi.github.io/#pbi-project-2-life-expectancy)
 *  [PBI Project 1: Factors affecting pregnancy health risks](https://hafizmahmudi.github.io/#pbi-project-1-factors-affecting-pregnancy-health-risks)
 
-## [1. Python Projects: ](https://hafizmahmudi.github.io/#pbi-project-16--afghanistans-health-expenditure-emis-dashboard)
+## [2. Python Projects: ](https://hafizmahmudi.github.io/#python-project-1-gdp-analysis-and-recommendation)
+*  [Python Project 16:  Afghanistan’s Health Expenditure (EMIS) Dashboard](https://hafizmahmudi.github.io/#pbi-project-16--afghanistans-health-expenditure-emis-dashboard)
+*  
 ## [1. Data Science-Football Data Ingestion and Processing](https://github.com/mahmudie/data_engineering_projects)
 ## [2. Data Science-Nutrtion ETL and Warehousing using SSIS](https://github.com/mahmudie/NutritionDIS)
 ## [3. Data Science- Nutrition Data Analysis Services](https://github.com/mahmudie/NutritionDIS/tree/main/NutritionSSAS)
@@ -146,7 +148,7 @@ Following are some insights I was able to make from this dashboard:
 ![image](https://github.com/ms4hafiz/Notes/assets/20435849/8aa52876-f0cc-41e9-bbb2-6dc21b0ff6ce)
 
 
-## [Python Project 1: GDP Analysis and Recommendation](#)
+## [Python Project 6: GDP Analysis and Recommendation](#)
 
 # Analysis and recommendation
 
@@ -190,3 +192,9 @@ Following are some insights I was able to make from this dashboard:
  5. Each state should Manufacturing; Agriculture, forestry and fishing; Real Estate, and Trade; Real estate, ownership of dwelling & professional services; Trade, repair, hotels and restaurants; and construction sub- sectors to increase GSVA.
  6. There is negative correlation between drop out rates and population. It means that when population increases the drop out decreases and when drop out increase the population decrease.
  7. If government and each state invest on increasing the GDP per capita, the education drop out will get lower. An educated people will directly affect individual learnings resulting to higher GDP to the nation.
+
+## [Python Project 5: Cluster Analysis PCA](https://github.com/hafizmahmudi/Clustering-using-PCA)
+## [Python Project 4: Telecom Churn Analysis](https://github.com/hafizmahmudi/Telecom-churn-study)
+## [Python Project 3: COVID-19 country cases and fatality trend](https://www.kaggle.com/code/hafizullahm/covid-19-country-cases-and-fatality-trend)
+## [Python Project 2: Credit Card EDA](https://github.com/hafizmahmudi/Credit-Card-Fraud-Detection)
+## [Python Project 1: Credit Card Fraud Detection](https://github.com/hafizmahmudi/Credit-Card-Fraud-Detection)
