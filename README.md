@@ -5,10 +5,16 @@
 ## [4. Data Science- GDP Analysis and Recommendation](https://github.com/mahmudie/GDP_Analysis)
 ## [5. Data Science- Analysis of loan applications](https://github.com/mahmudie/Credit_EDA_Case_Study)
 ## [6. Data Science- Telecom Churn Study](https://github.com/mahmudie/Telecom-churn-study)
-## [7. Data Science- Data analysis and visualization projects](https://app.powerbi.com/view?r=eyJrIjoiOTI2ODY3M2YtNTQ2My00YTY0LThlMGUtZTYyMzI4N2RkNzEzIiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D):
+## 7. Data Science- Data analysis and visualization projects:
 # PowerBI Projects
-## [Project 7.8: Supply Chain Analytics](https://app.powerbi.com/view?r=eyJrIjoiMzRmYjk4ZTctNjkwMi00MzMyLWFlYjgtNDViNTlhZDRkZGM1IiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D)
-![image](https://github.com/user-attachments/assets/a6872c45-4e4c-4773-92c4-5e327bd58dd7)
+## [Project 7.8: Supply Chain Analytics](https://app.powerbi.com/view?r=eyJrIjoiMGFiN2Q5M2MtMDNiZi00ZjZkLWI1OGMtMWQzZDJiNGJmNWE2IiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D&pageName=3bf3735949c403436e65)
+![image](https://github.com/user-attachments/assets/bd336de0-f47a-46a3-aaba-84cdb3c5e195)
+![image](https://github.com/user-attachments/assets/aa29929e-1efc-4731-af54-8b58927c65d0)
+![image](https://github.com/user-attachments/assets/df83a081-1582-4e00-9555-16e91669a540)
+![image](https://github.com/user-attachments/assets/88ef19c0-7a61-4d49-adef-32057ed6b0b1)
+![image](https://github.com/user-attachments/assets/aeb04bd8-f6f4-4fba-8836-dbd6b84b020f)
+![image](https://github.com/user-attachments/assets/09d03dc4-21b3-4969-bab0-083e5144ccad)
+
 This is a practice project for visualizing a few supply chain KPIs. It focuses mainly on the following KPIs/metrics:
 
 **Line Fill Rate:**
@@ -54,7 +60,7 @@ The Power BI project employs a variety of visualizations, including line charts,
 
 By leveraging Power BI's analytics capabilities, our project has empowered decision-makers to make data-driven choices, resulting in improved performance, coordination, and strategic planning. 
 
-## [Project 6: Private Health Sector Assessment Dashboard]()
+## Project 6: Private Health Sector Assessment Dashboard
 (access to the dashboard is restricted because of privacy concerns)
 ![image](https://github.com/user-attachments/assets/e9059203-2d81-4a0b-9702-4b0c0a4e9cff)
 ![image](https://github.com/user-attachments/assets/d1ce9fca-c5be-4960-9317-3680ceddb5c9)
