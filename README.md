@@ -1,5 +1,12 @@
 # Some of my past projects
 
+# [1. Power BI Projects](#)
+# [2. Python Projects](#)
+
+## [2. Data Science-Nutrtion ETL and Warehousing using SSIS](https://github.com/mahmudie/NutritionDIS)
+## [3. Data Science- Nutrition Data Analysis Services](https://github.com/mahmudie/NutritionDIS/tree/main/NutritionSSAS)
+
+
 ## [1. PowerBI Projects: ](https://hafizmahmudi.github.io/#pbi-project-16--afghanistans-health-expenditure-emis-dashboard)
 *  [PBI Project 16:  Afghanistan’s Health Expenditure (EMIS) Dashboard](https://hafizmahmudi.github.io/#pbi-project-16--afghanistans-health-expenditure-emis-dashboard)
 *  [PBI Project 15:  Afghanistan’s Nutrition Data Dashboard](https://hafizmahmudi.github.io/#pbi-project-15--afghanistans-nutrition-data-dashboard)
@@ -17,20 +24,7 @@
 *  [PBI Project 3: Profitability Analysis](https://hafizmahmudi.github.io/#pbi-project-3-profitability-analysis)
 *  [PBI Project 2: Life Expectancy](https://hafizmahmudi.github.io/#pbi-project-2-life-expectancy)
 *  [PBI Project 1: Factors affecting pregnancy health risks](https://hafizmahmudi.github.io/#pbi-project-1-factors-affecting-pregnancy-health-risks)
-
-## [2. Python Projects: ](https://hafizmahmudi.github.io/#python-project-1-gdp-analysis-and-recommendation)
-(This also includes my research projects which was carried out using Python)
-*  [Python Project 6: GDP Analysis and Recommendation](https://hafizmahmudi.github.io/#python-project-6-gdp-analysis-and-recommendation)
-*  [Python Project 5: Cluster Analysis PCA](https://hafizmahmudi.github.io/#python-project-5-cluster-analysis-pca)
-*  [Python Project 4: Telecom Churn Analysis](https://hafizmahmudi.github.io/#python-project-4-telecom-churn-analysis)
-*  [Python Project 3: COVID-19 country cases and fatality trend](https://hafizmahmudi.github.io/#python-project-3-covid-19-country-cases-and-fatality-trend)
-*  [Python Project 2: Analysis of loan applications](https://hafizmahmudi.github.io/#python-project-2-analysis-of-loan-applications)
-*  [Python Project 1: Credit Card Fraud Detection](https://hafizmahmudi.github.io/#python-project-1-credit-card-fraud-detection)
-
-
-## [2. Data Science-Nutrtion ETL and Warehousing using SSIS](https://github.com/mahmudie/NutritionDIS)
-## [3. Data Science- Nutrition Data Analysis Services](https://github.com/mahmudie/NutritionDIS/tree/main/NutritionSSAS)
-
+  
 ## PBI Project 16:  Afghanistan’s Health Expenditure (EMIS) Dashboard
 (Direct access to the dashboard is restricted and the data is anonymized)
 ![image](https://github.com/user-attachments/assets/6e7a48d7-3700-4008-9df9-257a0030cb23)
@@ -148,6 +142,15 @@ Following are some insights I was able to make from this dashboard:
 
 ## [PBI Project 1: Factors affecting pregnancy health risks](https://app.powerbi.com/view?r=eyJrIjoiM2I1NDgzZmItYzc1ZC00ZmViLTliYzQtMDU1YzkzZDYwYTkxIiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D)
 ![image](https://github.com/ms4hafiz/Notes/assets/20435849/8aa52876-f0cc-41e9-bbb2-6dc21b0ff6ce)
+
+## [2. Python Projects: ](https://hafizmahmudi.github.io/#python-project-1-gdp-analysis-and-recommendation)
+(This also includes my research projects which was carried out using Python)
+*  [Python Project 6: GDP Analysis and Recommendation](https://hafizmahmudi.github.io/#python-project-6-gdp-analysis-and-recommendation)
+*  [Python Project 5: Cluster Analysis PCA](https://hafizmahmudi.github.io/#python-project-5-cluster-analysis-pca)
+*  [Python Project 4: Telecom Churn Analysis](https://hafizmahmudi.github.io/#python-project-4-telecom-churn-analysis)
+*  [Python Project 3: COVID-19 country cases and fatality trend](https://hafizmahmudi.github.io/#python-project-3-covid-19-country-cases-and-fatality-trend)
+*  [Python Project 2: Analysis of loan applications](https://hafizmahmudi.github.io/#python-project-2-analysis-of-loan-applications)
+*  [Python Project 1: Credit Card Fraud Detection](https://hafizmahmudi.github.io/#python-project-1-credit-card-fraud-detection)
 
 
 ## [Python Project 6: GDP Analysis and Recommendation](#)
