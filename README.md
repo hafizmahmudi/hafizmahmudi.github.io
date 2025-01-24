@@ -7,36 +7,7 @@
 ## [6. Data Science- Telecom Churn Study](https://github.com/mahmudie/Telecom-churn-study)
 ## 7. Data Science- Data analysis and visualization projects:
 # PowerBI Projects
-## [Project 7.8: Supply Chain Analytics](https://app.powerbi.com/view?r=eyJrIjoiMGFiN2Q5M2MtMDNiZi00ZjZkLWI1OGMtMWQzZDJiNGJmNWE2IiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D&pageName=3bf3735949c403436e65)
-![image](https://github.com/user-attachments/assets/bd336de0-f47a-46a3-aaba-84cdb3c5e195)
-![image](https://github.com/user-attachments/assets/aa29929e-1efc-4731-af54-8b58927c65d0)
-![image](https://github.com/user-attachments/assets/df83a081-1582-4e00-9555-16e91669a540)
-![image](https://github.com/user-attachments/assets/88ef19c0-7a61-4d49-adef-32057ed6b0b1)
-![image](https://github.com/user-attachments/assets/aeb04bd8-f6f4-4fba-8836-dbd6b84b020f)
-![image](https://github.com/user-attachments/assets/09d03dc4-21b3-4969-bab0-083e5144ccad)
 
-This is a practice project for visualizing a few supply chain KPIs. It focuses mainly on the following KPIs/metrics:
-
-**Line Fill Rate:**
-Assesses the efficiency of order fulfillment by measuring the percentage of order lines filled completely on the first shipment, reducing the need for follow-up shipments.
-
-**Volume Fill Rate:**
-Evaluates the percentage of ordered volume (units, weight, or value) shipped on the first attempt, indicating the efficiency of fulfilling large or bulk orders.
-
-**On Time Delivery (OTD):**: 
-Measures how reliably orders are delivered by the promised date, directly impacting customer satisfaction and service reliability.
-
-**In Full Delivery (IFD):**
-Evaluates whether orders are delivered with all items and quantities as requested, ensuring order completeness and accuracy. 
-
-**On Time and In Full Delivery (OTIF):**
-Combines OTD and IFD to assess the overall delivery performance, ensuring orders are both timely and complete, which aligns with customer expectations.
-
-**Customer Order Cycle Time (COCT):**
-Tracks the total time from order placement to delivery, providing insights into the efficiency of the order fulfillment process and affecting customer satisfaction.
-
-**Delay in Delivery:**
-Measures the time orders are delivered past the promised date, helping to identify and rectify delays in the supply chain that impact customer trust and satisfaction.
 
 ## Project 7.7:  Afghanistan’s Nutrition Data Dashboard
 (Direct access to the dashboard is restricted)
@@ -75,6 +46,36 @@ The assessment was carried out in important hubs including as Kabul, Herat, Nang
 ## [Project 5: Superstore Year over Year Performance]([https://app.powerbi.com/view?r=eyJrIjoiZTQ0MGJlZmItODc0Mi00NmE5LTliNDQtYzJjODM0MTgwMzU0IiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D](https://app.powerbi.com/view?r=eyJrIjoiYTAzOWRkNTgtNjYzMy00OGZiLWIzN2ItYjQwMzEyNDgzYTAyIiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D))
 ![GIF](https://github.com/user-attachments/assets/a9e8a1e6-7212-4ef2-8672-ad9139cbbafb)
 
+## [Project 7.8: Supply Chain Analytics](https://app.powerbi.com/view?r=eyJrIjoiMGFiN2Q5M2MtMDNiZi00ZjZkLWI1OGMtMWQzZDJiNGJmNWE2IiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D&pageName=3bf3735949c403436e65)
+![image](https://github.com/user-attachments/assets/bd336de0-f47a-46a3-aaba-84cdb3c5e195)
+![image](https://github.com/user-attachments/assets/aa29929e-1efc-4731-af54-8b58927c65d0)
+![image](https://github.com/user-attachments/assets/df83a081-1582-4e00-9555-16e91669a540)
+![image](https://github.com/user-attachments/assets/88ef19c0-7a61-4d49-adef-32057ed6b0b1)
+![image](https://github.com/user-attachments/assets/aeb04bd8-f6f4-4fba-8836-dbd6b84b020f)
+![image](https://github.com/user-attachments/assets/09d03dc4-21b3-4969-bab0-083e5144ccad)
+
+This is a practice project for visualizing a few supply chain KPIs. It focuses mainly on the following KPIs/metrics:
+
+**Line Fill Rate:**
+Assesses the efficiency of order fulfillment by measuring the percentage of order lines filled completely on the first shipment, reducing the need for follow-up shipments.
+
+**Volume Fill Rate:**
+Evaluates the percentage of ordered volume (units, weight, or value) shipped on the first attempt, indicating the efficiency of fulfilling large or bulk orders.
+
+**On Time Delivery (OTD):**: 
+Measures how reliably orders are delivered by the promised date, directly impacting customer satisfaction and service reliability.
+
+**In Full Delivery (IFD):**
+Evaluates whether orders are delivered with all items and quantities as requested, ensuring order completeness and accuracy. 
+
+**On Time and In Full Delivery (OTIF):**
+Combines OTD and IFD to assess the overall delivery performance, ensuring orders are both timely and complete, which aligns with customer expectations.
+
+**Customer Order Cycle Time (COCT):**
+Tracks the total time from order placement to delivery, providing insights into the efficiency of the order fulfillment process and affecting customer satisfaction.
+
+**Delay in Delivery:**
+Measures the time orders are delivered past the promised date, helping to identify and rectify delays in the supply chain that impact customer trust and satisfaction.
 ## [Project 4: Performance analysis of tracer indicators](https://public.tableau.com/views/ProvincialMonitoringKPIMiladi/MiladiDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 ![image](https://github.com/ms4hafiz/Notes/assets/20435849/ee827265-76e2-4080-acad-d30007ce9dc4)
 
