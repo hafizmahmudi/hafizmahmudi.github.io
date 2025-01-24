@@ -1,4 +1,4 @@
-# Some of my past projects
+# My Data Analytics Projects
 
 # [1. Power BI Projects](https://hafizmahmudi.github.io/#1-powerbi-projects-)
 # [2. Python Projects](https://hafizmahmudi.github.io/#2-python-projects-)
