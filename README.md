@@ -1,7 +1,7 @@
 # Some of my past projects
 
-# [1. Power BI Projects](#)
-# [2. Python Projects](#)
+# [1. Power BI Projects](https://hafizmahmudi.github.io/#1-powerbi-projects-)
+# [2. Python Projects](https://hafizmahmudi.github.io/#2-python-projects-)
 
 ## [2. Data Science-Nutrtion ETL and Warehousing using SSIS](https://github.com/mahmudie/NutritionDIS)
 ## [3. Data Science- Nutrition Data Analysis Services](https://github.com/mahmudie/NutritionDIS/tree/main/NutritionSSAS)
