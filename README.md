@@ -45,10 +45,18 @@ By leveraging Power BI's analytics capabilities, our project has empowered decis
 This PowerBI project leverages thousands of hospitals, pharmacies outs, and other private-sector health providers to help end users analyze and uncover investment opportunities.
 
 The assessment was carried out in important hubs including as Kabul, Herat, Nangarhar, Kandahar, and Balkh provinces in 2018. The assessment data has been interpreted/quantified in this interactive dashboard with several filter options such as location, kind of health facility, specialization, human resource size, hospital bed size, and service availability. It also includes information about hospitals, pharmacies, imaging facilities, doctors, and laboratories in five major cities: Kabul, Herat, Nangarhar, Kandahar, and Balkh. The main component of the dashboard contains sub-dashboards for hospitals, pharmacies, laboratories, imaging facilities, and independent doctors.
-
+## [Project 7.8: Electronic Sales Analysis in Germany](https://app.powerbi.com/view?r=eyJrIjoiYTIyZmQwOTItMTk1ZS00Nzk5LTk4YWEtODcwMTI1MmM3ZmY5IiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D)
+![image](https://github.com/user-attachments/assets/92f27886-f542-4ce8-baa9-4d174483f5ed)
+![image](https://github.com/user-attachments/assets/1951f87f-8c89-4702-8ad0-4e7585ac9003)
+![image](https://github.com/user-attachments/assets/73e6dc5e-7dcc-43c8-b07e-2b53808a82cb)
+![image](https://github.com/user-attachments/assets/e8484d35-a5cf-490e-ae06-774a838aad42)
+![image](https://github.com/user-attachments/assets/4f48dda1-283a-4a43-8b2f-6a1bc164d15b)
 
 ## [Project 5: Superstore Year over Year Performance]([https://app.powerbi.com/view?r=eyJrIjoiZTQ0MGJlZmItODc0Mi00NmE5LTliNDQtYzJjODM0MTgwMzU0IiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D](https://app.powerbi.com/view?r=eyJrIjoiYTAzOWRkNTgtNjYzMy00OGZiLWIzN2ItYjQwMzEyNDgzYTAyIiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D))
 ![GIF](https://github.com/user-attachments/assets/a9e8a1e6-7212-4ef2-8672-ad9139cbbafb)
+## [Project 7.8: Social Media Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjliNzY2YmMtYWJmZC00MzY3LTk3MDgtZDc2ZTYyYzE5OTUyIiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D)
+
+![image](https://github.com/user-attachments/assets/0a6470d2-8140-4a3b-bfc7-b16a32033937)
 
 ## [Project 7.8: Supply Chain Analytics](https://app.powerbi.com/view?r=eyJrIjoiMGFiN2Q5M2MtMDNiZi00ZjZkLWI1OGMtMWQzZDJiNGJmNWE2IiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D&pageName=3bf3735949c403436e65)
 ![image](https://github.com/user-attachments/assets/bd336de0-f47a-46a3-aaba-84cdb3c5e195)
@@ -83,7 +91,10 @@ Measures the time orders are delivered past the promised date, helping to identi
 ## [Project 4: Performance analysis of tracer indicators](https://public.tableau.com/views/ProvincialMonitoringKPIMiladi/MiladiDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 ![image](https://github.com/ms4hafiz/Notes/assets/20435849/ee827265-76e2-4080-acad-d30007ce9dc4)
 
-## [Project 4: Advanced Table Design in PowerBI](https://app.powerbi.com/view?r=eyJrIjoiMTYyYzg2YjctZDc5Zi00YTJlLThjODQtMDJmYTM0ZmY1YTQ5IiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D)
+## [Project 4: Advanced Search/Table in PowerBI](https://app.powerbi.com/view?r=eyJrIjoiOTc2OWUwNDUtNjU4MC00Zjk1LWFhY2EtZGJhZWMyMzM1N2Y5IiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D)
+![image](https://github.com/user-attachments/assets/181e89e7-3674-4b30-a925-4b7d9537ab20)
+
+## [Project 4: Advanced Table Design in PowerBI](https://app.powerbi.com/view?r=eyJrIjoiNGVlY2MyNTMtZDkxNC00NzFmLWIwZWEtNWEyZTQyNGVkZWVhIiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D)
 ![image](https://github.com/user-attachments/assets/e03dd03a-e3bc-498e-8b9a-2b275a260c16)
 
 ## [Project 4: Creative way of Showing Percentage](https://app.powerbi.com/view?r=eyJrIjoiMTYyYzg2YjctZDc5Zi00YTJlLThjODQtMDJmYTM0ZmY1YTQ5IiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D)
