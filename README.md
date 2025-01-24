@@ -56,7 +56,7 @@ The assessment was carried out in important hubs including as Kabul, Herat, Nang
 ![image](https://github.com/user-attachments/assets/e8484d35-a5cf-490e-ae06-774a838aad42)
 ![image](https://github.com/user-attachments/assets/4f48dda1-283a-4a43-8b2f-6a1bc164d15b)
 
-## [PBI Project 11: Superstore Year over Year Performance]([https://app.powerbi.com/view?r=eyJrIjoiZTQ0MGJlZmItODc0Mi00NmE5LTliNDQtYzJjODM0MTgwMzU0IiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D](https://app.powerbi.com/view?r=eyJrIjoiYTAzOWRkNTgtNjYzMy00OGZiLWIzN2ItYjQwMzEyNDgzYTAyIiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D))
+## [PBI Project 11: Superstore Year over Year Performance](https://app.powerbi.com/view?r=eyJrIjoiYTAzOWRkNTgtNjYzMy00OGZiLWIzN2ItYjQwMzEyNDgzYTAyIiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D)
 ![GIF](https://github.com/user-attachments/assets/a9e8a1e6-7212-4ef2-8672-ad9139cbbafb)
 ## [PBI Project 10: Social Media Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjliNzY2YmMtYWJmZC00MzY3LTk3MDgtZDc2ZTYyYzE5OTUyIiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D)
 
