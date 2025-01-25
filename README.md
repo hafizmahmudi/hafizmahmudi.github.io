@@ -139,8 +139,7 @@ Measures the time orders are delivered past the promised date, helping to identi
 ![image](https://github.com/user-attachments/assets/e03dd03a-e3bc-498e-8b9a-2b275a260c16)
 
 ## [PBI Project 5: Creative way of Showing Percentage](https://app.powerbi.com/view?r=eyJrIjoiMTYyYzg2YjctZDc5Zi00YTJlLThjODQtMDJmYTM0ZmY1YTQ5IiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D)
-![image](https://github.com/user-attachments/assets/68f42f64-deff-46d1-88f8-a9ded9f19309)
-
+![image](https://github.com/user-attachments/assets/3c97f894-874f-4e92-914b-33b81abb4d4d)
 
 
 ## [PBI Project 4: HR Overview ](https://app.powerbi.com/view?r=eyJrIjoiM2RmYmNiYTQtMWFjNy00NGYzLTg0MGItM2JmMmFiY2JkZDUwIiwidCI6IjExYjJhMTMyLTI2YzYtNDJjNy05N2IxLWVlNGY2YTU2NjNlYiIsImMiOjEwfQ%3D%3D)
