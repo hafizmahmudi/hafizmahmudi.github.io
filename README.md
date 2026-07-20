@@ -7,8 +7,7 @@
   3. Replace the README's contents with everything in this file
   4. Commit — it will appear at github.com/hafizmahmudi
   --------------------------------------------------
-  Placeholders to personalize are marked with  <!-- EDIT -->  comments.
--->
+  Placeholders to personalize are marked with  <!-- EDIT --> 
 
 <h1 align="center">Hi, I'm Hafizullah Mahmudi 👋</h1>
 
@@ -20,7 +19,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/hmahmudi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <!-- EDIT: add your public email if you want it shown -->
-  <a href="mailto:hefd.hafiz@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:hafiz.m.career@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Based%20in-Germany-000000?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
